@@ -1,0 +1,31 @@
+body
+{
+    background-color: lightblue;
+   
+}
+.container
+{
+    background-color: #fff;
+    width: 500px;
+    height: 500px;
+}
+
+img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: 0 2rem;
+}
+button
+{
+    position: relative;
+    left: -200px;
+    top: 100px;
+}
+.invisible
+{
+    width: 200px;
+    height: 200px;
+}

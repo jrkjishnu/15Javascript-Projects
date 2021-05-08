@@ -1,0 +1,9 @@
+.sec1
+{
+    width: 500px;
+    box-shadow: 0 1rem 1rem -0.7rem rgba(0,0,0,0.4);
+}
+h2,button
+{
+    display: inline-block;
+}
